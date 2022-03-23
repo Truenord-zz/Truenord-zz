@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Truenord-zz
+- 👋 Hi, I’m @Andreas Carlson
+
+
 - 👀 I’m interested in C# && F#
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on nothing.
